@@ -132,7 +132,7 @@ header .logo .menu .aside-menu {
   top: 20px;
   height: 200px;
   background-color: #1f2021;
-  display: block;
+  display: none;
 }
 header .aside-menu ul {
   flex-direction: column;
